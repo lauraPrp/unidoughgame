@@ -16,7 +16,8 @@ import java.util.Iterator;
 import com.badlogic.gdx.utils.Array;
 import com.badlogic.gdx.utils.TimeUtils;
 
-public class MyUnicornGame extends ApplicationAdapter {private Texture dropImage;
+public class MyUnicornGame extends ApplicationAdapter {
+	private Texture dropImage;
 	private Texture bucketImage;
 	private Sound dropSound;
 	//private Music rainMusic;
@@ -29,8 +30,8 @@ public class MyUnicornGame extends ApplicationAdapter {private Texture dropImage
 	@Override
 	public void create() {
 		// load the images for the droplet and the bucket, 64x64 pixels each
-		dropImage = new Texture(Gdx.files.internal("droplet.jpg"));
-		bucketImage = new Texture(Gdx.files.internal("bucket.jpg"));
+		dropImage = new Texture(Gdx.files.internal("doughnut.png"));
+		bucketImage = new Texture(Gdx.files.internal("unicorn.png"));
 
 		// load the drop sound effect and the rain background "music"
 		dropSound = Gdx.audio.newSound(Gdx.files.internal("drop.wav"));
