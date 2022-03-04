@@ -13,6 +13,7 @@ follow instructions to replicate prj structure
 thank you to https://BigSoundBank.com and https://www.bensound.com/ for the audio files
 # HOW TO RUN THE GAME
 install APK on your mobile phone or use an emulatoron android 10+
+  https://github.com/lauraPrp/unidoughgame/blob/master/apk/unicorn1.0.apk
 
 desktop version tested on winzozz
 
