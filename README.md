@@ -3,7 +3,7 @@
 
 
 # unidoughgame
-there are two things my daughter loves: unicorn and doughnuts. Add here we are. 
+there are two things my daughter loves: unicorn and doughnuts. And here we are. 
 
 A simple game to explore libgdx, little unicorn is greedy! 
 
